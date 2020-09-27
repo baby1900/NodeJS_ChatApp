@@ -56,11 +56,7 @@ The purpose of this app is to provide you an online chat room to chat with you f
 The app utilized Socket.io for realtime chatting, and google map is used for sharing locations with others. This app also enables autoscrolling.
 
 ### Built With
-* [MongoDB](https://www.mongodb.com/)
-* [REST API](https://restfulapi.net/)
-* [Postmark](https://postmarkapp.com/)
-* [Jest](https://jestjs.io/)
-
+* [Socket.io](https://socket.io/)
 
 
 <!-- USAGE EXAMPLES -->
